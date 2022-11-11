@@ -1,5 +1,3 @@
-## Let me introduce my self:
-
 #### Ciao, mi chiamo Alessandro e sono una persona con pregi e difetti esattamente come voi.
 #### Attualmente sto affrontando un corso intensivo di 6 mesi con Develhope, sto acquisendo così le skill necessarie per affacciarmi al mondo della programmazione.
 
@@ -9,13 +7,19 @@
 - 	🟢 CSS
 - 	🟢 SCSS
 - 	🟢 Javascript
+-  🟢 React
+-  🟢 Typescript
 
-## Prevedo nei prossimi mesi di trattare:
--   ⚪ React
--   ⚪ Typescript
--   ⚪ Node.js
+## Argomento in corso:
+-  ⚪ Node.js
 
-## Con l'attuale Team stiamo lavorando a:
- [Il clone del sito Electronic Arts](https://github.com/ErasmoSalsano/ea-clone.git).
+## Prevedo una volta finito il corso di trattare:
 
-## Se hai letto fino a qua, grazie per il tuo tempo 👋
+-  ⚪ Angular
+-  ⚪ Canvas
+-  ⚪ Three.js
+
+## Con l'attuale Team abbiamo lavorato a:
+ [Il clone del sito Electronic Arts (HTML-Scss-JS)](https://github.com/ErasmoSalsano/ea-clone.git).
+## ed al momento stiamo lavorando su:
+ [Il clone del sito Electronic Arts (Scss-React)](https://github.com/ErasmoSalsano/ea-react.git).
